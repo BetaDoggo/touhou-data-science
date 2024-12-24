@@ -42,4 +42,9 @@ Zanmu is the most shipped touhou at **16.32%**. Zanmu is also one of the most pl
 ### Gengetsu
 ![gengetsu](https://en.touhouwiki.net/images/9/9c/Th04gengetu.png)
 
-Gengetsu is the kinkiest touhou at 3.74%. Gengetsu is a standout as the only PC98 touhou on the leaderboard. Interestingly, the second kinkiest touhou, Orange, is also a PC98 exclusive.
+Gengetsu is the kinkiest touhou at **3.74%**. Gengetsu is a standout as the only PC98 touhou on the leaderboard. Interestingly, the second kinkiest touhou, Orange, is also a PC98 exclusive.
+
+# Methodology:
+The metrics were gathered based on danbooru image counts.
+The character list is taken from https://maribelhearn.com/thvote. I then manually converted this list into the coresponding danbooru tags and dropped some obscure and non-humanoid characters. It's possible that there are some missing due to errors in my process. If you find that your favorite touhou is missing, please let me know so that I can fix it.
+Lonelyness is based on the 'solo' tag, wholesomeness and hornyness are based on 'rating:general' and 'rating:explicit', shipability is based on the 'yuri' tag, and kinkyness is based on the combination of the 'bondage', 'exhibitionism' and 'tentacles' tags.
